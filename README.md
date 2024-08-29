@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone [https://github.com/your-username/buynow.git](https://github.com/pandeyshikh/Buy-Now)
+git clone (https://github.com/pandeyshikh/Buy-Now)
 Navigate to the project directory:
 
 bash
