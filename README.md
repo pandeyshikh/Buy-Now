@@ -1,4 +1,4 @@
-BuyNow
+
 BuyNow is an e-commerce website project developed using HTML, CSS, and JavaScript. The goal of this project is to create a user-friendly online shopping platform that showcases products and allows users to add them to their cart for purchase.
 
 Features
@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/buynow.git
+git clone [https://github.com/your-username/buynow.git](https://github.com/pandeyshikh/Buy-Now)
 Navigate to the project directory:
 
 bash
